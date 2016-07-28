@@ -1,1 +1,3 @@
 Hello Bar. This is Foo. Nice to meet you =P
+
+Nice to meet you Foo. Bar is awesome.
